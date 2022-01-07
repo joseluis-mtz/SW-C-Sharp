@@ -1,0 +1,6 @@
+C:\Users\Kaiser Administrador\documents\visual studio 2015\Projects\Evaluacion\clienteWeb\bin\clienteWeb.dll.config
+C:\Users\Kaiser Administrador\documents\visual studio 2015\Projects\Evaluacion\clienteWeb\bin\clienteWeb.dll
+C:\Users\Kaiser Administrador\documents\visual studio 2015\Projects\Evaluacion\clienteWeb\bin\clienteWeb.pdb
+C:\Users\Kaiser Administrador\documents\visual studio 2015\Projects\Evaluacion\clienteWeb\obj\Debug\clienteWeb.csprojResolveAssemblyReference.cache
+C:\Users\Kaiser Administrador\documents\visual studio 2015\Projects\Evaluacion\clienteWeb\obj\Debug\clienteWeb.dll
+C:\Users\Kaiser Administrador\documents\visual studio 2015\Projects\Evaluacion\clienteWeb\obj\Debug\clienteWeb.pdb

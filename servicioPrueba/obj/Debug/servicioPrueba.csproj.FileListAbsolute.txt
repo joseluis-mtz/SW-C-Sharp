@@ -1,0 +1,6 @@
+c:\users\kaiser administrador\documents\visual studio 2015\Projects\Evaluacion\servicioPrueba\bin\servicioPrueba.dll.config
+c:\users\kaiser administrador\documents\visual studio 2015\Projects\Evaluacion\servicioPrueba\bin\servicioPrueba.dll
+c:\users\kaiser administrador\documents\visual studio 2015\Projects\Evaluacion\servicioPrueba\bin\servicioPrueba.pdb
+c:\users\kaiser administrador\documents\visual studio 2015\Projects\Evaluacion\servicioPrueba\obj\Debug\servicioPrueba.dll
+c:\users\kaiser administrador\documents\visual studio 2015\Projects\Evaluacion\servicioPrueba\obj\Debug\servicioPrueba.pdb
+C:\Users\Kaiser Administrador\documents\visual studio 2015\Projects\Evaluacion\servicioPrueba\obj\Debug\servicioPrueba.csprojResolveAssemblyReference.cache
